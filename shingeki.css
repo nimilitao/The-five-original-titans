@@ -1,0 +1,442 @@
+#titulo1{
+   font-family: 'Nosifer', cursive;
+   color:rgb(14, 151, 14);
+   transition: all .5s;
+   padding: 0px;
+   padding-top: 10px;
+   text-align: center;
+   padding-right: 10px;
+   -webkit-text-stroke-width: 0.5px;
+   -webkit-text-stroke-color: rgb(2, 2, 73);
+}
+
+#titulo2{
+   color: darkred;
+   font-family: 'Tangerine', cursive; 
+   text-align: center;
+   transition: all .5s;
+   padding-bottom: 20px;
+}
+
+#saochamados{
+  color:#fff ;
+  margin-left: 53px;
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+p{
+  color: #fff;
+}
+
+#conteiner{
+width: 70%;
+margin: auto;
+background-color: rgba(0,0,0,0.7);
+border: 1px solid blue ;
+padding: 0px;
+box-shadow: 6px 6px 2em blue;
+padding-bottom: 10px;
+transition: all .5s;
+}
+
+#espconteiner{
+  padding: 30px;
+}
+
+body{
+  background-image: url(https://wallpaperscave.com/images/thumbs/download/1366x768/18/09-03/anime-attack-on-titan-81358.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.tita{
+  width:200px;
+  margin: 10px;
+  text-align: center;
+  color: #fff;
+  margin-top: 10px;
+  padding-top: 7px;
+}
+
+.conteudo{
+  display: table-cell;
+  padding-bottom: 5px;
+} 
+
+.imagem{
+display: table-cell;
+float: right;
+}
+
+.texto{
+  display: table-cell;
+  float:left;
+  width: 300px;
+  color: #fff;
+  padding-left: 35px;
+}
+
+.os9{
+  width: 240px; 
+  height: 350px;
+}
+
+li{
+  list-style: none;
+}
+
+.caixah2{
+  background: rgba(0,0,0,0) linear-gradient(to right,rgb(48, 47, 47) 10%,transparent) repeat scroll 0 0;
+  border-bottom: 0 none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 45px;
+  color: aqua;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 600px;
+  
+}
+
+#principal{
+  font-size: 40px;
+  border-bottom: 0.5px solid rgb(204, 202, 202);
+  color:#fff;
+  margin-bottom: 30px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#asidebox{
+  background: rgba(0,0,0,0) linear-gradient(to right,rgb(0, 0, 43),rgb(0, 0, 255),rgb(0, 0, 43)) repeat scroll 0 0;
+   color: #eee;
+   text-align: center;
+   width: 300px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 18px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 5px;
+}
+
+#caixaimgasd{
+  width: 300px;
+  margin: 5px;
+  margin-top: 0px;
+}
+
+.h3asd{
+  margin-left: 5px;
+  color: #fff;
+}
+
+aside{
+  border: 0.1px solid rgb(97, 97, 97);
+  width: 310px;
+  float: right;
+  margin-left: 50px;
+  margin-top: 11px;
+}
+
+#pnome1{
+  padding-left: 115px;
+  padding-top: 0px;
+  color: #fff;
+}
+
+#pnome2{
+  padding-left: 115px;
+  padding-top: 0px;
+  color: #fff;
+}
+
+#novet{
+  padding-left: 53px;
+  color: #fff;
+  padding-right: 1px;
+}
+
+#titasasd{
+  color: #fff;
+}
+
+#infosclpse{
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgba(0,0,0,0) linear-gradient(to right,rgb(0, 0, 43),rgb(0, 0, 255),rgb(0, 0, 43)) repeat scroll 0 0;
+  color: #eee;
+  text-align: center;
+  width: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px;
+}
+
+#rodapeasd{
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgba(0,0,0,0) linear-gradient(to right,rgb(0, 0, 43),rgb(0, 0, 255),rgb(0, 0, 43)) repeat scroll 0 0;
+  color: #eee;
+  text-align: center;
+  width: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px;
+}
+
+#siteasd{
+  display: table-cell;
+  float: left;
+  padding-top: 1px;
+  padding-left: 3px;
+  color: #fff;
+  margin-bottom: 7px;
+}
+
+#linkasd{
+  display: table-cell;
+  padding-left: 189px;
+  padding-top: 5px;
+}
+
+#creditos{
+  color: aqua;
+}
+
+#creditos:hover{
+  color: #fff;
+}
+
+#h3asdclpse{
+  display: table-cell;
+  color: #fff;
+  padding-left: 6px;
+}
+
+#pasd{
+  color:#fff;
+  display: table-cell;
+  padding-left: 97px;
+}
+
+#habilidades{
+  display: table-cell;
+  color: #fff;
+  padding-left: 6px;
+}
+
+#habasd{
+  color:#fff;
+  display: table-cell;
+  padding-left: 55px;
+}
+
+#lealdade{
+  display: table-cell;
+  color: #fff;
+  padding-left: 6px;
+}
+
+#lealasd{
+  color:#fff;
+  display: table-cell;
+  padding-left: 78px;
+}
+
+#portadores1{
+  display: table-cell;
+  color: #fff;
+  padding-left: 6px;
+}
+
+#portasd{
+  color:#fff;
+  display: table-cell;
+  padding-left: 62px;
+  padding-right: 3px;
+}
+
+.portadores2{
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#topo{
+ background-color: rgb(37, 36, 36);
+ height: 120px;
+}
+
+#snktopo{
+  width: 260px;
+  height: 90px;
+  padding-left: 20px;
+  padding-top: 20px;
+  
+}
+
+#snktopo2{
+  width: 120px;
+  height: 120px;
+  padding-right: 15px;
+  float: right;
+}
+
+#aottopo{
+  color: #fff;
+  float: right;
+  padding-right: 160px;
+  padding-top: 37px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 13px;
+  height: 0px;
+} 
+
+::-webkit-scrollbar-track {
+  background: #000;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom,transparent 0%,#002efd 0%,transparent 100%);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom,transparent 0%,cyan 0%,transparent 100%);
+}
+/*--------------------------------------------------------MENU----------------------------------------------------------*/
+*{
+  padding: 0px;
+  margin: 0px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+#menus{
+  list-style: none;
+}
+
+#icone{
+  width:40px;
+  position: fixed;
+  padding-left: 3px;
+}
+
+input[type="checkbox"]{
+  display: none;
+}
+
+nav{
+  background-color: #fff ;
+  width: 305px;
+  height: 91.5%;
+  left: -350px;
+  transition: all .5s;
+  border: 2px solid dodgerblue;
+  border-radius: 10px;
+  box-shadow: 6px 6px 2em deepskyblue;
+  opacity: 0.9;
+  padding-top: 55px;
+  position: fixed;
+}
+
+input[type="checkbox"]:checked ~ nav
+{
+  transform: translateX(350px);
+}
+
+input[type="checkbox"]:checked ~ #conteiner
+{
+  transform: translateX(154px);
+}
+
+input[type="checkbox"]:checked ~ #titulo1
+{
+  transform: translateX(160px);
+}
+
+input[type="checkbox"]:checked ~ h1
+{
+  transform: translateX(165px);
+}
+
+#menus{
+  top: 50px;
+  position: absolute;
+  width: 100%;
+}
+
+.areconhecimento{
+  display: block;
+  padding: 05px 5px;
+  color: rgb(0, 0, 255);
+  font-size: 20px;
+}
+
+.areconhecimento:hover{
+  color: #000;
+}
+
+label{
+  padding: 15px;
+  position: absolute;
+  z-index: 1;
+}
+
+.reconhecimento{
+  height: 37px;
+  width: 50px;
+}
+
+#salocin{
+  width: 150px;
+  height: 30px;
+  padding-left: 17px;
+}
+/*/////////////////////////////////////////////////////// RODAPE////////////////////////////////////////////////////////*/
+#espaco{
+  width: 1000px;
+  height: 20px;
+}
+
+.rodape-final{
+  /*     rgb(164, 196, 255)     */
+  background-image: url(imagens/whitetexture.jpg);
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  height: 500px;
+  
+}
+
+#imgrodape{
+  width: 45%;
+  padding-top: 10px;
+  padding-left: 120px;
+}
+
+#art-img{
+  
+  
+  width: 33.33%;
+  height: 70px;
+  padding-right: 400px;
+  padding-left: 400px;
+
+  
+}
+
+#pticle{
+  margin-top: 90px;
+  width: 10;
+}
